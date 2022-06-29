@@ -1,3 +1,3 @@
-# Dependency_Injection_Container
+# Dependency injection container
 
 This test task for company
