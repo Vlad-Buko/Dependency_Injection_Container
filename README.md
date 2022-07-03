@@ -1,3 +1,4 @@
 # Dependency injection container
 
-This test task for company
+It this project, i'm implementation dependency container.
+
